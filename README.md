@@ -9,7 +9,7 @@ This project analyzes vegetation patterns across Edmonton parks using Sentinel-2
 4. Classify NDVI into vegetation levels  
 5. Perform zonal statistics to summarize vegetation per park  
 
-<img width="1537" height="364" alt="ndvi_pipeline drawio" src="https://github.com/user-attachments/assets/82e6da4a-f365-4fd1-8060-1695a6725842" />
+<img width="1601" height="390" alt="ndvi_pipeline drawio" src="https://github.com/user-attachments/assets/33894de2-abe4-43da-b76c-c4ed42175148" />
 
 
 ## Technologies
